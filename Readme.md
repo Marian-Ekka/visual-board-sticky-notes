@@ -69,6 +69,7 @@ This project fulfills multiple Web Technology course outcomes:
 ##  Author
 
 * **Name**: *[Marian Ekka]*
+* **Name**: *[Anjali Lakra]*
 
 
 
