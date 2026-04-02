@@ -68,16 +68,7 @@ This project fulfills multiple Web Technology course outcomes:
 
 ##  Author
 
-* **Student Name**: *[Marian Ekka]*
-* **Program**: B.Tech. CSE (2024–2028)
-* **Faculty**: Dr. Chandan Misra
+* **Name**: *[Marian Ekka]*
 
----
 
-##  Instructions for GitHub
 
-1. Create a new file named `README.md` in your project repository.
-2. Paste the contents of this README into it.
-3. GitHub will automatically format it beautifully.
-
----
