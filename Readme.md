@@ -70,6 +70,7 @@ This project fulfills multiple Web Technology course outcomes:
 
 * **Name**: *[Marian Ekka]*
 * **Name**: *[Anjali Lakra]*
+* **Name**: *[Adyasa Pattnaik]*
 
 
 
